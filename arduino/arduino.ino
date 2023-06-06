@@ -26,6 +26,5 @@ void loop() {
   
     myStepper.step(int(number/360.0*float(stepsPerRevolution)));
     
-    delay(500);
   }
 }
