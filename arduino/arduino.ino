@@ -1,12 +1,9 @@
 
 /*
-  Stepper Motor Control - one revolution
+  Stepper Motor Control 
 
-  This program drives a unipolar or bipolar stepper motor.
-  The motor is attached to digital pins 8 - 11 of the Arduino.
-
-  The motor should revolve one revolution in one direction, then
-  one revolution in the other direction.
+  The program reads a float from the serial port and rotates the stepper motor by an angle equal to the input.
+  Positive angle means a clockwise rotation, negative angle means anticlockwise.
 
 */
 
@@ -20,14 +17,15 @@ Stepper myStepper(stepsPerRevolution, 8, 10, 9, 11);
 void setup() {
   myStepper.setSpeed(rolePerMinute);
   Serial.begin(9600);
+  myStepper.step(2048);
 }
 
 void loop() {  
   if (Serial.available() > 0) {
 
-    int number = Serial.parseInt();
+    float number = Serial.parseFloat();
   
-    myStepper.step(number);
+    myStepper.step(int(number/360*stepsPerRevolution));
     delay(500);
   }
 }
