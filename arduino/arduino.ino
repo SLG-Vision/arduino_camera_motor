@@ -17,7 +17,6 @@ Stepper myStepper(stepsPerRevolution, 8, 10, 9, 11);
 void setup() {
   myStepper.setSpeed(rolePerMinute);
   Serial.begin(9600);
-  myStepper.step(2048);
 }
 
 void loop() {  
@@ -25,7 +24,8 @@ void loop() {
 
     float number = Serial.parseFloat();
   
-    myStepper.step(int(number/360*stepsPerRevolution));
+    myStepper.step(int(number/360.0*float(stepsPerRevolution)));
+    
     delay(500);
   }
 }

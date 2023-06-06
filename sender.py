@@ -10,7 +10,7 @@ class MySerial():
         self.serial = serial.Serial(serial_port, 9600)  
 
     def write(self, number):
-        self.serial.write(number.encode())
+        self.serial.write(number.encode('utf-7'))
 
     def close(self):
         self.serial.close()
