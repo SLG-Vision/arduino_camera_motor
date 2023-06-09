@@ -11,4 +11,4 @@ Note that the motor has a sensibility of 2048 steps per revolution, which means 
 
 ## Python support
 
-See `sender.py` to see the sender sample code.
+See `sender.py` to see the sender sample code. 

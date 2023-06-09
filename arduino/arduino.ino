@@ -20,9 +20,10 @@ void setup() {
 }
 
 void loop() {  
-  if (Serial.available() > 0) {
+  if (Serial.available() >= sizeof(float) ) {
 
-    float number = Serial.parseFloat();
+    float number;
+    Serial.readBytes((char*)&number, sizeof(float));
   
     myStepper.step(int(number/360.0*float(stepsPerRevolution)));
     
