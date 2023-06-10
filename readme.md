@@ -8,6 +8,7 @@ Note that the motor has a sensibility of 2048 steps per revolution, which means 
 ## Schematics
 
 ![Schematics](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/Wiring-28BYJ48-Stepper-Motor-with-ULN2003-Driver-and-Arduino.png)
+Actually, in the current code version, pins used are 2, 3, 4, 5.
 
 ## Python support
 
