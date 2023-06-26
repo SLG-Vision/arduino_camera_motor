@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 420 299" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;">
+    <rect x="0" y="0" width="420" height="298.376" style="fill:rgb(235,235,235);"/>
+    <path d="M230,240L230,260" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M30,130L30,240" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M30,240L230,240" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M30,130L60,130" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M230,220L230,240" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M40,260L200,260" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M40,120L40,260" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M40,120L60,120" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M200,210L240,210" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M200,210L200,260" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M200,210L200,260" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M200,260L210,260" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M200,260L212,260" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M212,250L212,270" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M218,255L218,265" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:3px;"/>
+    <path d="M218,260L230,260" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M290,50L390,50" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M390,50L390,210" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M380,210L390,210" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M350,200L380,200" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M380,60L380,200" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M290,50L290,70" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M280,80L280,140" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M310,60L380,60" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M350,190L370,190" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M370,70L370,190" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M320,70L370,70" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M350,180L360,180" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M360,80L360,180" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M340,80L360,80" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M280,140L350,140" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M350,140L350,170" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M350,210L380,210" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M190,170L240,170" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M190,180L240,180" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M190,190L240,190" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M190,200L240,200" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,237.591,235.138)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">ULN2003 Driver PCB</text>
+    </g>
+    <g transform="matrix(1,0,0,0.902515,0,15.5976)">
+        <rect x="240" y="160" width="100" height="70" style="fill-opacity:0;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,244,170)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">IN4</text>
+    </g>
+    <path d="M340,170L350,170" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,312.775,170)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">VCC</text>
+    </g>
+    <path d="M230,180L240,180" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,244,180)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">IN3</text>
+    </g>
+    <path d="M340,180L350,180" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,329.882,180)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">4</text>
+    </g>
+    <path d="M230,190L240,190" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,244,190)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">IN2</text>
+    </g>
+    <path d="M340,190L350,190" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,329.882,190)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">3</text>
+    </g>
+    <path d="M230,200L240,200" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,244,200)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">IN1</text>
+    </g>
+    <path d="M340,200L350,200" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,329.882,200)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">2</text>
+    </g>
+    <path d="M230,210L240,210" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,244,210)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">VCC</text>
+    </g>
+    <path d="M340,210L350,210" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,329.882,210)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">1</text>
+    </g>
+    <path d="M230,220L240,220" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,244,220)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">GND</text>
+    </g>
+    <path d="M280,80L294,80" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M326,80L340,80" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M305,80L300,70L290,70" style="fill-opacity:0;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M315,80L320,70L330,70" style="fill-opacity:0;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M294,80L296,80L300,84" style="fill-opacity:0;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M326,80L324,80L320,84" style="fill-opacity:0;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M310,80L310,60" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <circle cx="310" cy="95" r="15" style="fill-opacity:0;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+    <g transform="matrix(1,0,0,1,305.011,103.59)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">M</text>
+    </g>
+    <path d="M303,86L303,90L317,90L317,94" style="fill-opacity:0;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+    <rect x="65" y="35" width="120" height="195" style="fill-opacity:0;stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+    <g transform="matrix(1,0,0,1,91.0522,67.2182)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">ARDUINO</text>
+    </g>
+    <g transform="matrix(1,0,0,1,98.0522,77.2182)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">UNO r3</text>
+    </g>
+    <path d="M60,90L65,90" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M60,100L65,100" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M60,110L65,110" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M60,120L65,120" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M60,130L65,130" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M60,140L65,140" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M60,150L65,150" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M60,170L65,170" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M60,180L65,180" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M60,190L65,190" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M60,200L65,200" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M60,210L65,210" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M60,220L65,220" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,60L190,60" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,70L190,70" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,80L190,80" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,90L190,90" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,100L190,100" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,110L190,110" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,120L190,120" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,130L190,130" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,150L190,150" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,160L190,160" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,170L190,170" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,180L190,180" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,190L190,190" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,200L190,200" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,210L190,210" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <path d="M185,220L190,220" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,69,90)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">IOREF</text>
+    </g>
+    <g transform="matrix(1,0,0,1,69,100)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">RESET</text>
+    </g>
+    <g transform="matrix(1,0,0,1,69,110)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">3.3V</text>
+    </g>
+    <g transform="matrix(1,0,0,1,69,120)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">5V</text>
+    </g>
+    <g transform="matrix(1,0,0,1,69,130)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">GND</text>
+    </g>
+    <g transform="matrix(1,0,0,1,69,140)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">GND</text>
+    </g>
+    <g transform="matrix(1,0,0,1,69,150)">
+        <g>
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">V</text>
+            <g transform="matrix(1,0,0,1,7.138,0)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">in</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,69,170)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">A0</text>
+    </g>
+    <g transform="matrix(1,0,0,1,69,180)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">A1</text>
+    </g>
+    <g transform="matrix(1,0,0,1,69,190)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">A2</text>
+    </g>
+    <g transform="matrix(1,0,0,1,69,200)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">A3</text>
+    </g>
+    <g transform="matrix(1,0,0,1,69,210)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">A4</text>
+    </g>
+    <g transform="matrix(1,0,0,1,69,220)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">A5</text>
+    </g>
+    <g transform="matrix(1,0,0,1,151.663,60)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">AREF</text>
+    </g>
+    <g transform="matrix(1,0,0,1,156.556,70)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">GND</text>
+    </g>
+    <g transform="matrix(1,0,0,1,160.821,80)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">D13</text>
+    </g>
+    <g transform="matrix(1,0,0,1,160.821,90)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">D12</text>
+    </g>
+    <g transform="matrix(1,0,0,1,181,100)">
+        <g>
+            <g transform="matrix(1,0,0,1,-49.301,0)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">PWM D1</text>
+            </g>
+            <g transform="matrix(1,0,0,1,-6.118,0)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">1</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,130.882,110)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">PWM D10</text>
+    </g>
+    <g transform="matrix(1,0,0,1,130.888,120)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">PWM   D9</text>
+    </g>
+    <g transform="matrix(1,0,0,1,166.938,130)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">D8</text>
+    </g>
+    <g transform="matrix(1,0,0,1,166.938,150)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">D7</text>
+    </g>
+    <g transform="matrix(1,0,0,1,130.888,160)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">PWM   D6</text>
+    </g>
+    <g transform="matrix(1,0,0,1,130.888,170)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">PWM   D5</text>
+    </g>
+    <g transform="matrix(1,0,0,1,166.938,180)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">D4</text>
+    </g>
+    <g transform="matrix(1,0,0,1,130.888,190)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">PWM   D3</text>
+    </g>
+    <g transform="matrix(1,0,0,1,166.938,200)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">D2</text>
+    </g>
+    <g transform="matrix(1,0,0,1,143.714,210)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">TX   D1</text>
+    </g>
+    <g transform="matrix(1,0,0,1,142.489,220)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:11px;">RX   D0</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-8.84061,-2.18004)">
+        <path d="M125,50C127,59 140,59 140,50C140,41 127,41 125,50" style="fill-opacity:0;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-8.84061,-2.18004)">
+        <path d="M125,50C123,41 110,41 110,50C110,59 123,59 125,50" style="fill-opacity:0;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-8.84061,-2.18004)">
+        <path d="M131,50L135,50" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-8.84061,-2.18004)">
+        <path d="M133,52L133,48" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-8.84061,-2.18004)">
+        <path d="M119,50L115,50" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    </g>
+    <circle cx="230" cy="240" r="2" style="stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+    <circle cx="200" cy="260" r="2" style="stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+    <circle cx="200" cy="210" r="2" style="stroke:black;stroke-width:2px;stroke-linecap:butt;"/>
+</svg>
